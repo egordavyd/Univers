@@ -19,7 +19,7 @@ setuptools.setup(
 
 	long_description_content_type="text/markdown",
 	
-	url="",
+	url="https://github.com/egordavyd/Univers",
 
 	packages=setuptools.find_packages(),
 	
