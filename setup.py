@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
 
-	name="UNIVERSencrypt",
+	name="Univers",
 
 	version="0.0.1",
 
